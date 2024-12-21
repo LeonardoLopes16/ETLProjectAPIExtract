@@ -87,10 +87,11 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 
 ## ✒️ Autor
 
-* **Seu Nome** - *Desenvolvimento* - [seu-usuario](https://github.com/seu-usuario)
+* **Leonardo Lopes** - *Desenvolvimento* - [LeonardoLopes16](https://github.com/LeonardoLopes16)
 
 ## 📄 Notas
 
 - Este é um projeto em desenvolvimento
 - Sugestões e contribuições são bem-vindas
 ```
+
