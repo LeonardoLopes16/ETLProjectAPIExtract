@@ -1,5 +1,3 @@
-Vou ajudar você a criar um README mais completo para seu projeto de ETL em Python. Aqui está uma sugestão:
-
 ```markdown:README.md
 # ETL Project - API Data Extraction
 
@@ -96,19 +94,3 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 - Este é um projeto em desenvolvimento
 - Sugestões e contribuições são bem-vindas
 ```
-
-Este README inclui:
-
-1. Descrição clara do projeto
-2. Lista de funcionalidades
-3. Instruções de instalação e configuração
-4. Estrutura do projeto
-5. Como contribuir
-6. Informações sobre licença e autor
-7. Seções em português, já que você fez a pergunta em português
-8. Emojis para melhor organização visual
-9. Exemplos de comandos e configurações
-10. Estrutura de diretórios sugerida
-
-Você pode personalizar este README de acordo com as necessidades específicas do seu projeto, adicionando ou removendo seções conforme necessário.
-
